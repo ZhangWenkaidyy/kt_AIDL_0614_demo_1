@@ -1,0 +1,1 @@
+include ':app', ':yigechengxu', ':xinshi_demo_1', ':client_1', ':baidudituceshi_1'
